@@ -1,0 +1,1 @@
+self.loader.loadModel("ant_eye_camponotus_nicobarensis.glb")
